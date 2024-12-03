@@ -160,25 +160,3 @@ footer h1 {
   line-height: 3rem;
   word-break: break-all;
 }
-
-
-/* MOBILE */
-
-@media (width <= 40em) {
-  main {
-    max-width: 25rem;
-    width: 90%;
-
-    height: 20rem;
-  }
-
-  form {
-    padding: 2rem 2.5rem;
-  }
-
-  input,
-  select,
-  button {
-    height: 2.5rem;
-  }
-}
